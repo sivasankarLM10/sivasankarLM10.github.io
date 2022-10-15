@@ -1,0 +1,102 @@
+{
+    "name": "dasdebjeet",
+    "author": "Debjeet Das",
+    "developer": {
+        "name": "Debjeet Das",
+        "url": "https://dasdebjeet.github.io/"
+    },
+    "short_name": "dasdebjeet",
+    "start_url": "https://dasdebjeet.github.io/",
+    "background_color": "#25262A",
+    "scope": "/app/",
+    "theme_color": "#71FCAA",
+    "display": "standalone",
+    "icons": [{
+            "sizes": "114x114",
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/apple-icon-114x114.png"
+        },
+        {
+            "sizes": "120x120",
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/apple-icon-120x120.png"
+        },
+        {
+            "sizes": "144x144",
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/apple-icon-144x144.png"
+        },
+        {
+            "sizes": "152x152",
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/apple-icon-152x152.png"
+        },
+        {
+            "sizes": "180x180",
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/apple-icon-180x180.png"
+        },
+        {
+            "sizes": "57x57",
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/apple-icon-57x57.png"
+        },
+        {
+            "sizes": "60x60",
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/apple-icon-60x60.png"
+        },
+        {
+            "sizes": "72x72",
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/apple-icon-72x72.png"
+        },
+        {
+            "sizes": "76x76",
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/apple-icon-76x76.png"
+        },
+
+        {
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/android-icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/android-icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/maskable_icon_x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }, {
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/maskable_icon_x384.png",
+            "type": "image/png",
+            "sizes": "384x384",
+            "purpose": "maskable"
+        }, {
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/maskable_icon_x192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/maskable_icon_x128.png",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/maskable_icon_x96.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/maskable_icon_x72.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/dasdebjeet/dasdebjeet.github.io/main/assests/favicon/maskable_icon_x48.png",
+            "type": "image/png",
+            "sizes": "48x48",
+            "purpose": "maskable"
+        }
+    ]
+}
