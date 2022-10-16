@@ -354,6 +354,9 @@
 .title_colorChange {
     color: var(--themeC);
 }
+.title_colorChange2 {
+    color: var(--themeC);
+}
 
 /* Keyframes */
 @keyframes change-color {
@@ -375,7 +378,7 @@
     margin-bottom: 50px;
     letter-spacing: 1.5px;
     font-family: 'Quicksand', sans-serif;
-    font-style: italic;
+    font-style: bold;
     font-size: 18px;
 }
 
